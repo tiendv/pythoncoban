@@ -2,7 +2,7 @@
 
 Python là ngôn ngữ mà mỗi lập trình viên ngày nay đề có thể dễ dàng tiếp cận và sử dụng thành thạo.
 
-Trong tài liệu này, chúng ta sẽ có các phần cơ bản sau đây:
+### Nội dung:
 - **[Chapter 01. Getting Started](https://github.com/tiendv/pythoncoban/blob/master/Chapter%2001.%20Getting%20Started.ipynb)**: cái nhìn tổng quan về ngôn ngữ lập trình Python cùng với các cài đặt Jupyter Notebook để lập trình Python.
 
 - **[Chapter 02. Variables and Simple Data types](https://github.com/tiendv/pythoncoban/blob/master/Chapter%2002.%20Variables%20and%20Simple%20Data%20Types.ipynb):** Làm quen với khái niệm biến và kiểu dữ liệu trong ngôn ngữ Python.
@@ -21,17 +21,16 @@ Trong tài liệu này, chúng ta sẽ có các phần cơ bản sau đây:
 
 - **[Chapter 09. Classes](https://github.com/tiendv/pythoncoban/blob/master/Chapter%2009.%20Class.ipynb)**: chương này bàn về phương pháp lập trình hướng đối tượng.
 
-- **[Chapter 10. Operations with Files]**: Hướng dẫn làm việc với dữ liệu đầu vào/đầu ra được lưu trong file.
+- **[Chapter 10. Operations with Files](https://github.com/tiendv/pythoncoban/blob/master/Chapter%2010.%20Operations%20with%20Files.ipynb)**: Hướng dẫn làm việc với dữ liệu đầu vào/đầu ra được lưu trong file.
 
-- **[Chapter 11. Exceptions]**: cascch Xử lý các lỗi xảy ra không mong muốn.
-
-
-
-**Ngoài ra**, còn có thêm các bài tập luyện tập giúp các bạn luyện tập tại [đây](https://github.com/tiendv/pythoncoban/tree/master/Practice).
+- **[Chapter 11. Exceptions](https://github.com/tiendv/pythoncoban/blob/master/Chapter11.%20Exceptions.ipynb)**: cascch Xử lý các lỗi xảy ra không mong muốn.
 
 
-- Các sách tham khảo:
+### **Ngoài ra**, còn có thêm các bài tập luyện tập giúp các bạn luyện tập tại [đây](https://github.com/tiendv/pythoncoban/tree/master/Practice).
+
+
+### Các sách tham khảo:
   - [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](http://93.174.95.29/_ads/922B856D66574746B69EC69E67C20A17): một quyển sách rất thân thiện, bên cạnh đó còn có các project thú vị.
   -  [A Practice Introduction to Python Programming](https://drive.google.com/file/d/1Mh_3Yf_xzOSog32XqTW42q4h8MPibRAy/view?usp=sharing)
   
-  ## <p style = "text-align: center"><b>Chúc các bạn học tốt !</p>
+## <p style = "text-align: middle"><b>Chúc các bạn học tốt !</p>
