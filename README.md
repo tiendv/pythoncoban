@@ -11,9 +11,9 @@ Python là ngôn ngữ mà mỗi lập trình viên ngày nay đề có thể d�
 
 - **[Chapter 04. Working with Lists](https://github.com/tiendv/pythoncoban/blob/master/Chapter%2004.%20Working%20with%20Lists.ipynb)**: Tiếp theo của chương 03, chúng ta đi sâu hơn vào việc sử dụng vòng lặp, tránh các lỗi khi dùng kiểu dữ liệu list. Bên cạnh đó, sẽ giới thiệu thêm về Tuples và các bài tập rèn luyện tăng cường [Chapter 04. Bonus Lists and Tuples](https://github.com/tiendv/pythoncoban/blob/master/Chapter%2004.%20Bonus_List%20and%20Tuple.ipynb).
 
-- **[Chapter 05. if Staments]**: Câu lệnh điều khiển if trong Python.
+- **[Chapter 05. if Staments](https://github.com/tiendv/pythoncoban/blob/master/Chapter%2005.%20if%20Statements.ipynb)**: Câu lệnh điều khiển if trong Python.
 
-- **[Chapter 06. Dictionaries]**: Đây làm một loại cấu trúc dữ liệu dạng danh sách sẽ được giới thiệu được viết bằng English. Nếu bạn đã quen với `list` thì kiểu dữ liệu dictionaries này sẽ rất nhanh tiếp thu.
+- **[Chapter 06. Dictionaries](https://github.com/tiendv/pythoncoban/blob/master/Chapter%2006.%20Dictionaries.ipynb)**: Đây làm một loại cấu trúc dữ liệu dạng danh sách sẽ được giới thiệu được viết bằng English. Nếu bạn đã quen với `list` thì kiểu dữ liệu dictionaries này sẽ rất nhanh tiếp thu.
 
 - **[Chapter 07.  User input and while loop](https://github.com/tiendv/pythoncoban/blob/master/Chapter%2007.%20User%20Input%20and%20while%20Loop.ipynb)**: Đi sâu hơn về việc nhận dữ đầu vào, các kỹ thuật sử dụng trong vòng lặp.
 
