@@ -26,7 +26,7 @@ Python là ngôn ngữ mà mỗi lập trình viên ngày nay đề có thể d�
 - **[Chapter 11. Exceptions](https://github.com/tiendv/pythoncoban/blob/master/Chapter11.%20Exceptions.ipynb)**: cascch Xử lý các lỗi xảy ra không mong muốn.
 
 
-### **Ngoài ra**, còn có thêm các bài tập luyện tập giúp các bạn luyện tập tại [đây](https://github.com/tiendv/pythoncoban/tree/master/Practice).
+### **Ngoài ra**, còn có thêm các bài tập luyện tập sẵn có giúp các bạn luyện tập tại [đây](https://github.com/tiendv/pythoncoban/tree/master/Practice).
 
 
 ### Các sách tham khảo:
