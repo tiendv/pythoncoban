@@ -1,6 +1,6 @@
 # Lập trình Python căn bản
 
-Python là ngôn ngữ mà mỗi lập trình viên ngày nay đề có thể dễ dàng tiếp cận và sử dụng thành thạo.
+Python là ngôn ngữ mà mỗi lập trình viên ngày nay đều có thể dễ dàng tiếp cận và sử dụng thành thạo.
 
 ### Nội dung:
 - **[Chapter 01. Getting Started](https://github.com/tiendv/pythoncoban/blob/master/Chapter%2001.%20Getting%20Started.ipynb)**: cái nhìn tổng quan về ngôn ngữ lập trình Python cùng với các cài đặt Jupyter Notebook để lập trình Python.
