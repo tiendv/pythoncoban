@@ -23,7 +23,7 @@ Python là ngôn ngữ mà mỗi lập trình viên ngày nay đều có thể d
 
 - **[Chapter 10. Operations with Files](https://github.com/tiendv/pythoncoban/blob/master/Chapter%2010.%20Operations%20with%20Files.ipynb)**: Hướng dẫn làm việc với dữ liệu đầu vào/đầu ra được lưu trong file.
 
-- **[Chapter 11. Exceptions](https://github.com/tiendv/pythoncoban/blob/master/Chapter11.%20Exceptions.ipynb)**: cascch Xử lý các lỗi xảy ra không mong muốn.
+- **[Chapter 11. Exceptions](https://github.com/tiendv/pythoncoban/blob/master/Chapter11.%20Exceptions.ipynb)**: Hướng dẫn xử lý các lỗi xảy ra không mong muốn.
 
 
 ### **Ngoài ra**, còn có thêm các bài tập luyện tập sẵn có giúp các bạn luyện tập tại [đây](https://github.com/tiendv/pythoncoban/tree/master/Practice).
