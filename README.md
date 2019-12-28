@@ -1,6 +1,6 @@
 # Lập trình Python căn bản
 
-
+----
 ## Nội dung
 
 ## Course tham khảo:
@@ -23,5 +23,5 @@
 - []()
 
 
-
+-----
 ## <p style = "text-align: middle"><b>Chúc các bạn học tốt !</p>
